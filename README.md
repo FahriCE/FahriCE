@@ -1,17 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Fahri</h1>
 
-___
 <h3 align="center">Oh i'm just a fan of coding and development of video games</h3>
-___
+
 <h2 align="center">👩‍💻  About Me</h2>
-___
+
 <p align="center">- 🔭 I'm a student in the second year of BUT 2 in Computer Science in the University of Strasbourg<br>
 - 🦻 I'm also a hard-hearing student.<br>- ⚡ In my free time, I look any inspirations for my side projects<br>
 - 🎮 Now, I'm brainstorming for a video game<br>- ⌛ Currently looking for an intership</p>
 
 <h2 align="center">Languages and tools</h2>
-___
+
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -33,11 +32,11 @@ ___
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-___
+
 <h2 align="center">📫 Find more about me</h2>
 <p align="center">My address mail : fahri202010@outlook.fr</p>
 
 <p align="center">
-<a href="https://github.com/FahriCE" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/fahri-cetinkaya-6a310b351/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://github.com/FahriCE" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/fahri-cetinkaya-6a310b351/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" width="40" height="40"/></a>
 </p>
