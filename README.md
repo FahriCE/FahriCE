@@ -11,13 +11,14 @@
 - ⚡ I love exploring new **ideas and inspirations for side projects**
 - 🎮 Actively **brainstorming my own video game** project
 - ⌛ Looking for an **internship opportunity**
+- 🔧 Currently working on my **portfolio website**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,php,ts,js,html,css,nodejs,laravel,sqlite,linux,git,figma,androidstudio,unity,bash,godot,notion" alt="prog" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,php,ts,js,html,css,nodejs,laravel,sqlite,linux,git,figma,androidstudio,unity,bash,godot,notion,react" alt="prog" />
 </p>
 
 ---
